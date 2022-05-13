@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @StVictoria
+- 💻 I engaged in frontend from 2019
+- 🧩 My main stack is TypeScript/JavaScript/React/Redux. Also can work with native HTML/CSS/JS
