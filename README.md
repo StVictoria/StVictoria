@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @StVictoria
+- 👋 Hi, I’m Viktoriia
 - 💻 I'm engaged in frontend since 2019
-- 🧩 My main stack is TypeScript/JavaScript/React/Redux. Also can work with native HTML/CSS/JS
+- 🧩 My main stack is TypeScript/React.
